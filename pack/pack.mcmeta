@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "This is a template datapack"
+    "description": "A datapack that allows spectators to TP to the End spawn platform!"
   }
 }
