@@ -1,2 +1,2 @@
-# datapacktemplate
-Template for Minecraft Datapacks
+# EndTP
+Datapack that allows spectators to TP to the End Spawn platform!
