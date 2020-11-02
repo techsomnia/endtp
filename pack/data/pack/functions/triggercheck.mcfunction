@@ -1,5 +1,0 @@
-{
-  "values": [
-    "pack:triggercheck"
-  ]
-}
